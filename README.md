@@ -1,6 +1,6 @@
 - Hi I'm Naman
-- Sophomore IT B.Tech
+- 3rd year IT B.Tech
 - I’m Data Science Enthusiast
-- I’m looking to collaborate on python,sql,matplot-lib,mongo_DB etc. based projects which aims at drawing useful Insights from Data
+- I’m looking to collaborate on python,sql,matplot-lib,Machine Learning etc. based projects which aims at drawing useful Insights from Data
 - You can reach me at :- https://www.linkedin.com/in/naman-sharma-4322b91b3/
 - Let's Build something !
