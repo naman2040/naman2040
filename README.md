@@ -2,5 +2,5 @@
 - 3rd year IT B.Tech
 - I’m Data Analyst
 - I’m looking to collaborate on python,sql,matplot-lib,Machine Learning etc. based projects which aims at drawing useful Insights from Data
-- You can reach me at :- https://www.linkedin.com/in/naman-sharma-4322b91b3/
+- You can reach me at :- https://www.linkedin.com/in/the-naman-sharma/
 - Let's Build something !
